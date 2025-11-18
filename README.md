@@ -1,43 +1,44 @@
-# 🚖 Ola Ride Analytics Dashboard  
-### **Excel • SQL • Power BI • DAX**
+# Ola Ride Analytics Dashboard  
+### Excel • SQL • Power BI • DAX
 
-This project analyzes **103,024 Ola ride bookings (July 2024)** using Excel, SQL, and Power BI.  
-It delivers insights on booking trends, cancellations, revenue, customer behavior, and location performance.
-
----
-
-## 📌 Project Overview
-- Cleaned and preprocessed raw data using **Excel**  
-- Used **SQL** for KPI extraction, aggregations, and trend analysis  
-- Built an interactive **Power BI Dashboard** with DAX measures  
-- Visualized booking volume, cancellations, ratings, revenue, and high-value customers  
+This project analyzes 103,024 Ola ride bookings from July 2024 using Excel, SQL, and Power BI.  
+It provides insights into booking trends, cancellations, revenue performance, customer behavior, and location-based patterns.
 
 ---
 
-## 📊 Key Insights
-**Booking Trends**
-- Booking count fell **8.63%** between **July 27–31**  
-- Steepest drop: **3362 → 3072** rides  
-- Longest decline: **July 1–8**  
-
-**KPIs**
-- **Total Bookings:** 103,024  
-- **Total Revenue:** ₹35M+  
-- **Cancellation Rate:** 28.08%  
-- Underperforming location: **Whitefield**  
-- High-performing location: **Mysore Road**  
-
-**Customer & Driver Behavior**
-- Avg rating: ~4.0  
-- Identified **Top 5 High-Value Customers**
+## Project Overview
+- Performed data cleaning and preprocessing using Excel  
+- Used SQL for KPI extraction, aggregations, and trend analysis  
+- Built a fully interactive Power BI dashboard with DAX measures  
+- Visualized booking volumes, cancellation causes, ratings, payment behavior, and top customers  
 
 ---
 
-## 🛠 Tech Stack
-- **Excel** – Data cleaning  
-- **SQL** – Querying & KPI extraction  
-- **Power BI** – Dashboard & visualizations  
-- **DAX** – Measures & calculations  
+## Key Insights
+
+**Booking Trends**  
+- Booking count declined by 8.63% between July 27–31  
+- Steepest drop: 3,362 to 3,072 rides  
+- Longest declining period: July 1–8  
+
+**KPIs**  
+- Total Bookings: 103,024  
+- Total Revenue: ₹35M+  
+- Cancellation Rate: 28.08%  
+- Underperforming location: Whitefield  
+- High-performing location: Mysore Road  
+
+**Customer and Driver Behavior**  
+- Average rating approximately 4.0  
+- Identified top five high-value customers contributing the highest booking value  
+
+---
+
+## Tech Stack
+- Excel – Data cleaning and preprocessing  
+- SQL – Querying, analysis, and KPI generation  
+- Power BI – Dashboard design and data visualization  
+- DAX – Measures and calculations  
 
 ---
 
