@@ -42,5 +42,5 @@ It delivers insights on booking trends, cancellations, revenue, customer behavio
 ---
 
 ## 📸 Screenshots
-Example: ![Dashboard_Preview](https://github.com/Jahir-abbass/Ola-data-analytics-project-/blob/main/Snapshot%20of%20dashboard.png)
+ ![Dashboard_Preview](https://github.com/Jahir-abbass/Ola-data-analytics-project-/blob/main/Snapshot%20of%20dashboard.png)
 
